@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<div class="container">
+    <form asp-action="Product/Create" method="post">
+        <div class="form-group">
+            <input class="form-control" placeholder="Name" name="Name" />
+            <input class="form-control" placeholder="Category" name="Category" />
+            <input class="form-control" placeholder="Color" name="Color" />
+            <input class="form-control" placeholder="Unit Price" name="UnitPrice" />
+            <input class="form-control" placeholder="Available Quantity" name="AvailableQuantity" />
+        </div>
+
+        <input asp-action="Insert" class="btn btn-secondary" type="submit" value="Submit"/>
+    </form>
+</div>

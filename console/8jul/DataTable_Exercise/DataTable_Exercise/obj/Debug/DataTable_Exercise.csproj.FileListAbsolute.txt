@@ -1,0 +1,6 @@
+D:\aldi\learn\dot net biasa\console\8jul\DataTable_Exercise\DataTable_Exercise\bin\Debug\DataTable_Exercise.exe.config
+D:\aldi\learn\dot net biasa\console\8jul\DataTable_Exercise\DataTable_Exercise\bin\Debug\DataTable_Exercise.exe
+D:\aldi\learn\dot net biasa\console\8jul\DataTable_Exercise\DataTable_Exercise\bin\Debug\DataTable_Exercise.pdb
+D:\aldi\learn\dot net biasa\console\8jul\DataTable_Exercise\DataTable_Exercise\obj\Debug\DataTable_Exercise.csprojResolveAssemblyReference.cache
+D:\aldi\learn\dot net biasa\console\8jul\DataTable_Exercise\DataTable_Exercise\obj\Debug\DataTable_Exercise.exe
+D:\aldi\learn\dot net biasa\console\8jul\DataTable_Exercise\DataTable_Exercise\obj\Debug\DataTable_Exercise.pdb

@@ -1,0 +1,8 @@
+E:\aldi\learn\dot net mvc\inventory\InventoryManagement\Inventory.BL\bin\Debug\netcoreapp3.1\Inventory.BL.deps.json
+E:\aldi\learn\dot net mvc\inventory\InventoryManagement\Inventory.BL\bin\Debug\netcoreapp3.1\Inventory.BL.dll
+E:\aldi\learn\dot net mvc\inventory\InventoryManagement\Inventory.BL\bin\Debug\netcoreapp3.1\Inventory.BL.pdb
+E:\aldi\learn\dot net mvc\inventory\InventoryManagement\Inventory.BL\obj\Debug\netcoreapp3.1\Inventory.BL.csprojAssemblyReference.cache
+E:\aldi\learn\dot net mvc\inventory\InventoryManagement\Inventory.BL\obj\Debug\netcoreapp3.1\Inventory.BL.AssemblyInfoInputs.cache
+E:\aldi\learn\dot net mvc\inventory\InventoryManagement\Inventory.BL\obj\Debug\netcoreapp3.1\Inventory.BL.AssemblyInfo.cs
+E:\aldi\learn\dot net mvc\inventory\InventoryManagement\Inventory.BL\obj\Debug\netcoreapp3.1\Inventory.BL.dll
+E:\aldi\learn\dot net mvc\inventory\InventoryManagement\Inventory.BL\obj\Debug\netcoreapp3.1\Inventory.BL.pdb

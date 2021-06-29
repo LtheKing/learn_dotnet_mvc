@@ -1,0 +1,6 @@
+D:\aldi\learn\dot net biasa\console\13juli\PairOfSocks\PairOfSocks\bin\Debug\PairOfSocks.exe.config
+D:\aldi\learn\dot net biasa\console\13juli\PairOfSocks\PairOfSocks\bin\Debug\PairOfSocks.exe
+D:\aldi\learn\dot net biasa\console\13juli\PairOfSocks\PairOfSocks\bin\Debug\PairOfSocks.pdb
+D:\aldi\learn\dot net biasa\console\13juli\PairOfSocks\PairOfSocks\obj\Debug\PairOfSocks.csprojResolveAssemblyReference.cache
+D:\aldi\learn\dot net biasa\console\13juli\PairOfSocks\PairOfSocks\obj\Debug\PairOfSocks.exe
+D:\aldi\learn\dot net biasa\console\13juli\PairOfSocks\PairOfSocks\obj\Debug\PairOfSocks.pdb

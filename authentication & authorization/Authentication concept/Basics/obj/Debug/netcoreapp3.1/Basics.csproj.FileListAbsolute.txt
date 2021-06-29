@@ -1,0 +1,222 @@
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\appsettings.json
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Basics.exe
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.csprojAssemblyReference.cache
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfoInputs.cache
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfo.cs
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.RazorAssemblyInfo.cache
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.RazorAssemblyInfo.cs
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.TagHelpers.input.cache
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.TagHelpers.output.cache
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.RazorCoreGenerate.cache
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.RazorTargetAssemblyInfo.cache
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.RazorTargetAssemblyInfo.cs
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\staticwebassets\Basics.StaticWebAssets.Manifest.cache
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\staticwebassets\Basics.StaticWebAssets.xml
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Basics.deps.json
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.json
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.dev.json
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Basics.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Basics.pdb
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Basics.Views.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Basics.Views.pdb
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.csproj.CoreCompileInputs.cache
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.MvcApplicationPartsAssemblyInfo.cache
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.Views.pdb
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.csproj.CopyComplete
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.dll
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.pdb
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.genruntimeconfig.cache
+E:\aldi\learn\dot net mvc\login with session\Authentication\Basics\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\appsettings.json
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Basics.exe
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Basics.deps.json
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.json
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.dev.json
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Basics.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Basics.pdb
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Basics.Views.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Basics.Views.pdb
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.csprojAssemblyReference.cache
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfoInputs.cache
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfo.cs
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.csproj.CoreCompileInputs.cache
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.MvcApplicationPartsAssemblyInfo.cache
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.RazorAssemblyInfo.cache
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.RazorAssemblyInfo.cs
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\staticwebassets\Basics.StaticWebAssets.Manifest.cache
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\staticwebassets\Basics.StaticWebAssets.xml
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\scopedcss\bundle\Basics.styles.css
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.TagHelpers.input.cache
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.TagHelpers.output.cache
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.RazorCoreGenerate.cache
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.RazorTargetAssemblyInfo.cache
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.RazorTargetAssemblyInfo.cs
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.Views.pdb
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.csproj.CopyComplete
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.dll
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.pdb
+E:\aldi\learn\dot net mvc\authentication & authorization\Authentication concept\Basics\obj\Debug\netcoreapp3.1\Basics.genruntimeconfig.cache

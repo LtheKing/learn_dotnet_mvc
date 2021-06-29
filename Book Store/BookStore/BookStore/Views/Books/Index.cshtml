@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "Books List";
+}
+@model IEnumerable<BookStore.Models.BooksModel>
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+<h2>Index</h2>
+
+<div class="container" style="width:auto; height:auto;">
+    <table class="table table-striped">
+        <thead class="thead-black">
+            <tr>
+                <th>ID</th>
+                <th>Judul</th>
+                <th>Author ID</th>
+                <th>Harga</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach(var item in Model)
+            {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.BooksName</td>
+                <td>@item.AuthorID</td>
+                <td>@item.Price</td>
+                <td>
+                    <form method="post">
+                        <a href="@Url.Action("Edit","Books", new { id=item.ID })" class="btn btn-warning">Edit</a>
+                        <a href="@Url.Action("DeleteBooks","Books", new { id=item.ID })" class="btn btn-danger">Delete</a>
+                    </form>
+                    
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

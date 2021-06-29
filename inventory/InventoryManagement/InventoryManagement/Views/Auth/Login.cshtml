@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model Inventory.BL.Model.AuthModel;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<h1>LOGIN PAGE</h1>
+
+    @using(@Html.BeginForm("Login", "Auth", FormMethod.Post))
+    {
+        @Html.ValidationSummary(false, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(a => a.UserName)
+            @Html.TextBoxFor(a => a.UserName, new { @class = "form-control" })
+            @Html.ValidationMessageFor(a => a.UserName, "", new { @class = "text-danger"})
+        </div>
+    }
+
+
+@*<div>
+    <form method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group" asp-controller="Auth" asp-action="Login">
+            <label asp-for="AuthModel.UserName">UserName</label>
+        <input type="text" class="form-control" id="UserName" placeholder="Enter UserName">
+        <span asp-validation-for="AuthModel.UserName" class="text-danger"></span>
+
+            <label>@Html.LabelFor(a => a.UserName)</label>
+            <input class="form-control" @Html.TextBoxFor(a => a.UserName)
+            <span>@Html.ValidationMessageFor(a => a.UserName)</span>
+            
+
+            @Html.LabelFor(a => a.Password)
+            @Html.TextBoxFor(a => a.Password)
+            @Html.ValidationMessageFor(a => a.Password)
+
+
+        </div>
+        <div class="form-group">
+            <label for="Password">Password</label>
+            <input type="password" class="form-control" id="Password" placeholder="Password">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>*@
+
